@@ -1,0 +1,17 @@
+{
+  "name": "Kedvenc kajáim",
+  "short_name": "Kajáim",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef6ee",
+  "theme_color": "#eef6ee",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
